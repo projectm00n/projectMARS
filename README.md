@@ -1,3 +1,3 @@
 # projectMARS
 
-this repository is for innatetechnologies.space
+this repository is for https://innatetechnologies.space
