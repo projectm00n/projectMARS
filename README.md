@@ -1,3 +1,1 @@
-# projectMARS
-
-this repository is for https://innatetechnologies.space
+# M00N's extension to MARS
